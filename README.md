@@ -1,8 +1,7 @@
-sales@aaenterprises.net.pk
-
-83-K, Street-77, Phase-1, D.H.A.
-
-Lahore Cantt, Punjab, 54792 Pakistan
+# A&A Enterprises
+sales@aaenterprises.net.pk  
+83-K, Street-77, Phase-1, D.H.A.  
+Lahore Cantt, Punjab, 54792 Pakistan  
 
 ## PROFILE
 A&A Enterprises is a trading firm, started business in 1993. We have been supplying different kinds of materials including Electrical and Mechanical spares & equipment for WAPDA and Private Power Stations through F.O.R. and F.O.B. tenders.
@@ -70,16 +69,10 @@ Some of the agencies and business representation held by us are more than a deca
 ------------
 If you require any further information, please do not hesitate to contact us.
 
-Khalid Rafique Chugtai
-
-A & A Enterprises
-
-sales@aaenterprises.net.pk
-
-83-K, Street-77, Phase-1, D.H.A.
-
-Lahore Cantt, Punjab, 54792 Pakistan
-
-+92-42-35709996
-
-+92-42-35709997
+Khalid Rafique Chugtai  
+A & A Enterprises  
+sales@aaenterprises.net.pk  
+83-K, Street-77, Phase-1, D.H.A.  
+Lahore Cantt, Punjab, 54792 Pakistan  
++92-42-35709996  
++92-42-35709997  
